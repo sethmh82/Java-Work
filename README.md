@@ -1,2 +1,2 @@
-# homework1
-Homework 1
+# Java Works
+Java Works
